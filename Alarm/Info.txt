@@ -1,4 +1,4 @@
-#Pi Alarm
+Pi Alarm
 Using a Pi 3, I have created an advanced Alarm Clock.
 Some of the abilities of the alarm clock include motion based alarm.
 Also the alarm is simplified by reducing the required buttons to two: one for snooze, one for turning it off.
